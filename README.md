@@ -3,6 +3,6 @@ SRS Document for Moviicket, a movie ticketing website
 
 Group Members:
 
-Shelley Lam
-Adelina Martinez
+Shelley Lam,
+Adelina Martinez,
 Amilcar Galvez
